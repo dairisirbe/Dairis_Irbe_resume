@@ -32,13 +32,13 @@ Vairākus gadus pēc kārtas esmu ieguvis godalgotas vietas [Latvijas Robotikas 
 
 Drone race ir robotikas disciplīna, kura apvieno vairākus izaicinājumus. Ir jāizveido bezpilota lidaparāts, kurš spēj autonomi pacelties, nosēsties un lidot balstoties uz marķieriem sev apkārt.
 
-Ideja par šādu dronu radās jau 2017. gadā, taču tad vēl neizdevās projektu īstenot. Attēlā zemāk ir prototips ko izveidoju.
+Ideja par šādu dronu radās jau 2017. gadā, taču tad vēl neizdevās projektu īstenot. Sogad apņēmos turpināt iesākto un tā arī tapa mans autonomais drons. Attēlā zemāk pa kreisi rir drona prototips ko izveidoju 2017. gadā.
 
-![Pirmais prototips](/images/drons2.jpeg)
+![Droni](/images/drons.png)
 
 Sogad apņēmos turpināt iesākto un tā arī tapa mans autonomais drons.
 
-![Drons](/images/drons1.jpeg)
+
 
 
 # Lidmodelisms
