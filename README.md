@@ -24,8 +24,7 @@ Folkrace ir robotikas disciplīna, kurā robota galvenais uzdevums ir izvairīti
 
 Pašā jaunākajā robota dizainā esmu izveidojis speciālu pārnesumu sistēmu un robotam paredzētus 3 fāzu motoru kontrolierus, kas spēj dot maksimālu jaudu ātrumos, kas ir tuvu nullei.
 
-![BLDC kontrolieris](/images/plate.png)
-Format: ![Attēls ielādējas...](url)
+![BLDC kontrolieris](/images/plate.png)!
 
 Vairākus gadus pēc kārtas esmu ieguvis godalgotas vietas [Latvijas Robotikas čempionātā](http://robotuskola.lv/lv/latvijas-robotikas-cempionats-kalendars/) un arī 2018 gadā ieguvu pirmo vietu pasaules lielākajās robotikas sacensībās [Robotex](https://robotex.international).
 
