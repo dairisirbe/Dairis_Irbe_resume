@@ -61,6 +61,11 @@ Man arī pieder pašlaik lielākais pilotāžas modelis Latvijā. Tam ir 123 kub
 * Arduino `•••••••••-`        
 * HTML, CSS, JS `•••••-----`
 ### Projektēšana
-
+* AutoCad `•••••••••-`
+* Fusion 360 `•••••••••-`
+* Eagle `••••••----`
 ### Praktiskās zināšanas
-
+* Kokapstrāde `•••••••••-`
+* CNC `••••••----`
+* 3D printēšana `••••••••--`
+* Materiālu īpašības `••••••••--`
