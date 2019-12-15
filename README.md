@@ -1,5 +1,5 @@
 # Dairis_Rihards_Irbe
-> [dairisirbe@gmail.com](mailto:dairisirbe@gmail.com?subject=[GitHub] Source Han Sansurl)
+> [dairisirbe@gmail.com](mailto:dairisirbe@gmail.com?subject=[GitHub])
 
 ## Galvenās īpašības
 * Nodarbojos ar elektroniku, mehatroniku, lidmodelismu
