@@ -1,2 +1,2 @@
 # Dairis Rihards Irbe
-Īss pārskats par mani
+> dairisirbe@gmail.com
