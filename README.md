@@ -4,7 +4,7 @@
 ## Galvenās īpašības
 * Nodarbojos ar elektroniku, mehatroniku, lidmodelismu
 * Spēju projektēt un praktiski izstrādāt sarežģītas konstrukcijas
-* Par mani dažos vārdos: pozitīvs, tehniski domājošs, atbildīgs
+* Par mani dažos vārdos: pozitīvs, tehniski domājošs
 
 ## Īss apraksts
 
