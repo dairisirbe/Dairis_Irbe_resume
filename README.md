@@ -37,6 +37,7 @@ Ideja par šādu dronu radās jau 2017. gadā, taču tad vēl neizdevās projekt
 * Ar Arduino IDE izveidoju specializētu drona stabilizācijas algoritmu
 * Izveidoju mašīnredzes algoritmu, kas izpildas uz Rpaspbbery PI
 * Savienoju šīs visas sastāvdaļas kopā
+
 Tā arī tapa mans autonomais drons. 
 
 ![Droni](/images/drons.png)
