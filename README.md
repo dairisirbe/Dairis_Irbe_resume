@@ -45,11 +45,14 @@ Attēlā pa kreisi drona prototips ko izveidoju 2017. gadā.
 
 Ar dronu arī piedalijos Robotex 2019 sacensībās.
 
-
-
-
 # Lidmodelisms
+Lidmodelisms ir hobijs ar ko nodarbojos jau ilgu laiku. Nodarbojoties ar to esmu praktiski būvējis dažādus modeļus, apguvis zināšanas par dažādiem materiāliem un par bezpilota lidaparātiem kopumā.
 
+![Modelis](/images/lidmasinas.png)
+Attēlos redzams viens mo maniem modeļa būves projektiem.
+
+Man arī pieder pašlaik lielākais pilotāžas modelis Latvijā. Tam ir 123 kubikcentimetru iekšdedzes dzinējs un tā spārnu vēziens ir aptuveni 3 metri. 
+![Edge](/images/edge1.png)
 # Prasmes
 
 
