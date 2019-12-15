@@ -3,7 +3,7 @@
 
 > +371 28765428
 
-## Galvenās īpašības
+## Īsumā
 * Nodarbojos ar elektroniku, mehatroniku, lidmodelismu
 * Spēju projektēt un praktiski izstrādāt sarežģītas konstrukcijas
 * Par mani dažos vārdos: pozitīvs, tehniski domājošs
