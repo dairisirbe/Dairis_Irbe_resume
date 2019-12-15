@@ -22,7 +22,10 @@ Esmu [SIG - robotika un mehatronika](https://www.facebook.com/SIGsquad/) dalībn
 
 Folkrace ir robotikas disciplīna, kurā robota galvenais uzdevums ir izvairīties un pārvarēt dažādus šķēršļus. No pavisam primitīviem risinājumiem esmu izaudzis lidz kompleksiem un sarežģītiem risinājumiem, kas sevī ieklāuj  specializētu elektronisko plašu izstrādi, CNC frēzēšanu, 3D modelēšanu, programēšanu.
 
-Pašā jaunākajā robota dizainā esmu izveidojis speciālu pārnesumu sistēmu un robotam paredzētus bezsuku motoru kontrolierus, kas spēj dot maksimālu jaudu ātrumos, kas ir tuvu nullei.
+Pašā jaunākajā robota dizainā esmu izveidojis speciālu pārnesumu sistēmu un robotam paredzētus 3 fāzu motoru kontrolierus, kas spēj dot maksimālu jaudu ātrumos, kas ir tuvu nullei.
+
+![BLDC kontrolieris](/images/plate.png)
+Format: ![Attēls ielādējas...](url)
 
 Vairākus gadus pēc kārtas esmu ieguvis godalgotas vietas [Latvijas Robotikas čempionātā](http://robotuskola.lv/lv/latvijas-robotikas-cempionats-kalendars/) un arī 2018 gadā ieguvu pirmo vietu pasaules lielākajās robotikas sacensībās [Robotex](https://robotex.international).
 
