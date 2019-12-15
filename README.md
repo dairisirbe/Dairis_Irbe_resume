@@ -32,11 +32,17 @@ Vairākus gadus pēc kārtas esmu ieguvis godalgotas vietas [Latvijas Robotikas 
 
 Drone race ir robotikas disciplīna, kura apvieno vairākus izaicinājumus. Ir jāizveido bezpilota lidaparāts, kurš spēj autonomi pacelties, nosēsties un lidot balstoties uz marķieriem sev apkārt.
 
-Ideja par šādu dronu radās jau 2017. gadā, taču tad vēl neizdevās projektu īstenot. Sogad apņēmos turpināt iesākto un tā arī tapa mans autonomais drons. Attēlā zemāk pa kreisi rir drona prototips ko izveidoju 2017. gadā.
+Ideja par šādu dronu radās jau 2017. gadā, taču tad vēl neizdevās projektu īstenot. Sogad apņēmos turpināt iesākto. 
+* Izmantojot CNC frēzi izveidoju drona korpusu.
+* Ar Arduino IDE izveidoju specializētu drona stabilizācijas algoritmu
+* Izveidoju mašīnredzes algoritmu, kas izpildas uz Rpaspbbery PI
+* Savienoju šīs visas sastāvdaļas kopā
+Tā arī tapa mans autonomais drons. 
 
 ![Droni](/images/drons.png)
+Attēlā pa kreisi rir drona prototips ko izveidoju 2017. gadā.
 
-Sogad apņēmos turpināt iesākto un tā arī tapa mans autonomais drons.
+Ar dronu arī piedalijos Robotex 2019 sacensībās.
 
 
 
