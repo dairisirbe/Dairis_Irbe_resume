@@ -1,5 +1,6 @@
 # Dairis_Rihards_Irbe
 > [dairisirbe@gmail.com](mailto:dairisirbe@gmail.com?subject=[GitHub_zina] )
+> +371 28765428
 
 ## Galvenās īpašības
 * Nodarbojos ar elektroniku, mehatroniku, lidmodelismu
