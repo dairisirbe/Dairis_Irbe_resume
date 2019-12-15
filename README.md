@@ -1,5 +1,5 @@
 # Dairis_Rihards_Irbe
-> [dairisirbe@gmail.com](mailto:dairisirbe@gmail.com?subject=[GitHub])
+> [dairisirbe@gmail.com](mailto:dairisirbe@gmail.com?subject= GitHub zina )
 
 ## Galvenās īpašības
 * Nodarbojos ar elektroniku, mehatroniku, lidmodelismu
