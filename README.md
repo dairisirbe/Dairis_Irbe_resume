@@ -1,5 +1,5 @@
 # Dairis_Rihards_Irbe
-> [dairisirbe@gmail.com]
+> [dairisirbe@gmail.com](url)
 
 ## Galvenās īpašības
 * Nodarbojos ar elektroniku, mehatroniku, lidmodelismu
