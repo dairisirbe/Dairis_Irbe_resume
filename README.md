@@ -1,8 +1,7 @@
  ## Dairis_Rihards_Irbe
 <pre>
- 
-
- </pre> 
+</pre>
+>  
  # Dairis Rihards Irbe
  
 > [dairisirbe@gmail.com](mailto:dairisirbe@gmail.com?subject=[GitHub_zina] )
