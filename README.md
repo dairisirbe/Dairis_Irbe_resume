@@ -53,6 +53,14 @@ Attēlos redzams viens mo maniem modeļa būves projektiem.
 
 Man arī pieder pašlaik lielākais pilotāžas modelis Latvijā. Tam ir 123 kubikcentimetru iekšdedzes dzinējs un tā spārnu vēziens ir aptuveni 3 metri. 
 ![Edge](/images/edge1.png)
+
 # Prasmes
 
+### Programēšana
+>PYTHON         ••••••••••
+>Arduino        ••••••••••        
+>HTML, CSS, JS  ••••••••••
+### Projektēšana
+
+### Praktiskās zināšanas
 
