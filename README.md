@@ -41,7 +41,7 @@ Ideja par šādu dronu radās jau 2017. gadā, taču tad vēl neizdevās projekt
 Tā arī tapa mans autonomais drons. 
 
 ![Droni](/images/drons.png)
-Attēlā pa kreisi rir drona prototips ko izveidoju 2017. gadā.
+Attēlā pa kreisi drona prototips ko izveidoju 2017. gadā.
 
 Ar dronu arī piedalijos Robotex 2019 sacensībās.
 
