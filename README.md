@@ -66,8 +66,8 @@ Man arī pieder pašlaik lielākais pilotāžas modelis Latvijā. Tam ir 123 kub
 # Prasmes
 
 ### Programmēšana
-* PYTHON `•••••-----`
-* Arduino `•••••••••-`        
+* Arduino `•••••••••-`
+* PYTHON `•••••-----`        
 * HTML, CSS, JS `•••••-----`
 
 ### Projektēšana
@@ -77,7 +77,7 @@ Man arī pieder pašlaik lielākais pilotāžas modelis Latvijā. Tam ir 123 kub
 
 ### Praktiskās zināšanas
 * Kokapstrāde `•••••••••-`
-* CNC `••••••----`
 * 3D printēšana `••••••••--`
 * Materiālu īpašības `••••••••--`
+* CNC `••••••----`
 * Datorgrafika `••••------`
