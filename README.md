@@ -31,7 +31,7 @@ Folkrace ir robotikas disciplīna, kurā robota galvenais uzdevums ir izvairīti
 
 ![Roboti ](/images/bobots.png)
 
-Pašā jaunākajā robota dizainā esmu izveidojis speciālu pārnesumu sistēmu un robotam paredzētus 3 fāžu motoru kontrolierus, kas ļauj motoriem attīstīt maksimālu jaudu ļoti mazos ātrumos.
+Pašā jaunākajā robota dizainā esmu izveidojis speciālu pārnesumu sistēmu un robotam paredzētus līdzstrāvas 3 fāžu (brushless) motoru kontrolierus, kas ļauj motoriem attīstīt maksimālu jaudu ātrumos tuvu nullei.
 
 ![BLDC kontrolieris](/images/plate.png)
 
@@ -60,7 +60,7 @@ Lidmodelisms ir hobijs ar ko nodarbojos jau ilgu laiku. Nodarbojoties ar to esmu
 ![Modelis](/images/lidmasinas.png)
 Attēlos redzams viens mo maniem modeļa būves projektiem.
 
-Man arī pieder pašlaik lielākais pilotāžas modelis Latvijā. Tam ir 123 kubikcentimetru iekšdedzes dzinējs un tā spārnu vēziens ir aptuveni 3 metri. 
+Man pieder pašlaik lielākais pilotāžas modelis Latvijā. Tam ir 123 kubikcentimetru iekšdedzes dzinējs un tā spārnu vēziens ir aptuveni 3 metri. 
 ![Edge](/images/edge1.png)
 
 # Prasmes
