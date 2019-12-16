@@ -52,7 +52,7 @@ Tā arī tapa mans autonomais drons.
 ![Droni](/images/drons.png)
 Attēlā pa kreisi drona prototips ko izveidoju 2017. gadā.
 
-Ar dronu arī piedalījos Robotex 2019 sacensībās.
+Ar dronu arī piedalījos Robotex 2019 sacensībās un [RTU elektronikas dienās](https://www.sigulda.lv/public/lat/jaunumi/18191/).
 
 # Lidmodelisms
 Lidmodelisms ir hobijs ar ko nodarbojos jau ilgu laiku. Nodarbojoties ar to esmu praktiski būvējis dažādus modeļus, apguvis zināšanas par dažādiem materiāliem un par bezpilota lidaparātiem kopumā.
