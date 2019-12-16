@@ -35,7 +35,7 @@ Pašā jaunākajā robota dizainā esmu izveidojis speciālu pārnesumu sistēmu
 
 ![BLDC kontrolieris](/images/plate.png)
 
-Vairākus gadus pēc kārtas esmu ieguvis godalgotas vietas [Latvijas Robotikas čempionātā](http://robotuskola.lv/lv/latvijas-robotikas-cempionats-kalendars/) un arī 2018 gadā ieguvu pirmo vietu pasaules lielākajās robotikas sacensībās [Robotex](https://robotex.international).
+Vairākus gadus pēc kārtas esmu ieguvis godalgotas vietas [Latvijas Robotikas čempionātā](http://robotuskola.lv/lv/latvijas-robotikas-cempionats-kalendars/) un pasaules lielākajās robotikas sacensībās [Robotex](https://robotex.international).
 
 ### Drone race
 
