@@ -60,7 +60,7 @@ Lidmodelisms ir hobijs ar ko nodarbojos jau ilgu laiku. Nodarbojoties ar to esmu
 ![Modelis](/images/lidmasinas.png)
 Attēlos redzams viens mo maniem modeļa būves projektiem.
 
-Man pieder pašlaik lielākais pilotāžas modelis Latvijā. Tam ir 123 kubikcentimetru iekšdedzes dzinējs un tā spārnu vēziens ir aptuveni 3 metri. 
+Man pieder pašlaik lielākais pilotāžas modelis Latvijā. Tam ir 123 kubikcentimetru iekšdedzes dzinējs un tā spārnu vēziens ir 2,76 metri. 
 ![Edge](/images/edge1.png)
 
 # Prasmes
