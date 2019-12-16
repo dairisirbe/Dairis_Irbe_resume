@@ -31,7 +31,7 @@ Folkrace ir robotikas disciplīna, kurā robota galvenais uzdevums ir izvairīti
 
 ![Roboti ](/images/bobots.png)
 
-Pašā jaunākajā robota dizainā esmu izveidojis speciālu pārnesumu sistēmu un robotam paredzētus 3 fāžu motoru kontrolierus, kas spēj dot maksimālu jaudu ātrumos, kas ir tuvi nullei.
+Pašā jaunākajā robota dizainā esmu izveidojis speciālu pārnesumu sistēmu un robotam paredzētus 3 fāžu motoru kontrolierus, kas ļauj motoriem attīstīt maksimālu jaudu ļoti mazos ātrumos.
 
 ![BLDC kontrolieris](/images/plate.png)
 
