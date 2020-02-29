@@ -19,7 +19,7 @@ Esmu 12 klases skolnieks, dzīvoju Siguldā.
 
 Jau 9 gadus nodarbojos ar tehnisko hobiju lidmodelismu. Cenšos šo nodarbi Latvijā popularizēt, nereti piedaloties dažādos ar aviāciju saistītos pasākumos.
 
-Papildus lidmodelismam aizraujos ar elektroniku, mehatroniku - modelēju, būvēju, programmēju dažādus robotus un piedalos Latvijas un [starptautiska mēroga](https://robotex.international/) sacensībās.
+Papildus lidmodelismam aizraujos ar elektroniku, mehatroniku - modelēju, būvēju, programmēju dažādus robotus un piedalos Latvijas un [starptautiska mēroga](https://robotex.international/) sacensībās, kā arī Siguldas jaunrades centrā cenšos savas zināšanas par elektroniku un robotiku nodot bērniem, vadot Elektronikas pulciņu. 
 
 # Robotika
 
