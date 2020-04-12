@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Angliski
+title: EN
 permalink: /en/
 ---
 
