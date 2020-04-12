@@ -1,14 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-154892518-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-154892518-1');
-</script>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,11 +8,26 @@
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="icon" href="images/looo.png">
+    <style>
+      #galva {
+        text-align: right; 
+      }
+
+      .links a  {
+        color: black;
+        font-size: 25px;
+      }      
+    </style>
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-     
-
+      <div>
+        <h1 style="font-size: 45px">Dairis Rihards Irbe</h1>      
+        <div id = "galva">
+          <a class="linki" href="https://dairisirbe.github.io/baude/lv/" target="_self" style="padding-right: 10px">Latviski</a>
+          <a class="linki" href="https://dairisirbe.github.io/baude/en/" target="_self">English</a>
+        </div>
+      </div>
       {{ content }}
 
       {% if site.github.private != true and site.github.license %}
