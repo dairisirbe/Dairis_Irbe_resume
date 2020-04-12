@@ -166,3 +166,8 @@ I currently own one of the largest aerobatic RC plane in Latvia. It has a 123 cu
 * CNC `••••••----`
 * Computer graphics `••••------`
 -->
+
+# Dalība pasākumos
+
+- Erasmus + "You can be a hero", kas notika Latvijā, Grieķijā, Portugālē 
+- Microsoft AI Bootcamp Cēsis, 2019
