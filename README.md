@@ -127,6 +127,15 @@ I currently own one of the largest aerobatic RC plane in Latvia. It has a 123 cu
 ![Edge](/images/edge1.png)
 --->
 
+# Dalība pasākumos
+
+* Erasmus + "You can be a hero", kas notika Latvijā, Grieķijā, Portugālē - 2018 lidz 2019 
+* Microsoft AI Bootcamp Cēsis - 2019
+* Paraugdemonstrējumi [FAI pasaules čempionātā droniem](https://f9u.lv/) - 2018 un 2019
+* Valsts fizikas olimpiādes (1. un 2. vieta novadā)
+* Valsts matemātikas olimpiādes (1. , 2., 3. vieta novadā)
+* [MOON CAMP](https://mooncampchallenge.org/pioneers/) - 2020
+
 # Prasmes
 
 ### Programmēšana
@@ -166,12 +175,3 @@ I currently own one of the largest aerobatic RC plane in Latvia. It has a 123 cu
 * CNC `••••••----`
 * Computer graphics `••••------`
 -->
-
-# Dalība pasākumos
-
-* Erasmus + "You can be a hero", kas notika Latvijā, Grieķijā, Portugālē - 2018 lidz 2019 
-* Microsoft AI Bootcamp Cēsis - 2019
-* Paraugdemonstrējumi [FAI pasaules čempionātā droniem](https://f9u.lv/) - 2018 un 2019
-* Valsts fizikas olimpiādes (1. un 2. vieta novadā)
-* Valsts matemātikas olimpiādes (1. , 2., 3. vieta novadā)
-* [MOON CAMP](https://mooncampchallenge.org/pioneers/) - 2020
