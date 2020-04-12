@@ -13,6 +13,10 @@ Dairis Rihards Irbe
 * Spēju projektēt un praktiski izstrādāt sarežģītas konstrukcijas
 * Par mani dažos vārdos: pozitīvs, tehniski domājošs
 
+<!---
+tests !!!!!!!!!
+-->
+
 ## Par mani
 
 Esmu 12 klases skolnieks, dzīvoju Siguldā.
