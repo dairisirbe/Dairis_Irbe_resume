@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Latviski
+title: LV
 permalink: /lv/
 ---
 
