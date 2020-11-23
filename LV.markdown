@@ -12,17 +12,18 @@ permalink: /lv/
 
 ## Īsumā
 * Nodarbojos ar elektroniku, mehatroniku, lidmodelismu
-* Spēju projektēt un praktiski izstrādāt sarežģītas konstrukcijas
+* Ļoti aizrauj dažādu konstrukciju un mehānismu projektēšana
+* Lielu vērību pievēršu precizitātei
 * Par mani dažos vārdos: pozitīvs, tehniski domājošs
 
 
 ## Par mani
 
-Esmu 12 klases skolnieks, dzīvoju Siguldā.
+Esmu 1. kursa students RTU programā "Mašīnu un aparātu būvniecība", dzīvoju Siguldā.
 
-Jau 9 gadus nodarbojos ar tehnisko hobiju lidmodelismu. Cenšos šo nodarbi Latvijā popularizēt, nereti piedaloties dažādos ar aviāciju saistītos pasākumos.
+Jau 10 gadus nodarbojos ar tehnisko hobiju lidmodelismu. Cenšos šo nodarbi Latvijā popularizēt, nereti piedaloties dažādos ar aviāciju saistītos pasākumos.
 
-Papildus lidmodelismam aizraujos ar elektroniku, mehatroniku - modelēju, būvēju, programmēju dažādus robotus un piedalos Latvijas un [starptautiska mēroga](https://robotex.international/) sacensībās, kā arī Siguldas jaunrades centrā cenšos savas zināšanas par elektroniku un robotiku nodot bērniem, vadot Elektronikas pulciņu.
+Papildus lidmodelismam aizraujos ar elektroniku, mehatroniku - modelēju, būvēju, programmēju dažādus robotus un piedalos Latvijas un [starptautiska mēroga](https://robotex.international/) sacensībās, kā arī Siguldas jaunrades centrā cenšos savas zināšanas par elektroniku un robotiku nodot bērniem, vadot "Praktiskās elektronikas" un "Lidmodelisma" pulciņu.
 
 
 
@@ -79,7 +80,7 @@ Man pieder pašlaik lielākais pilotāžas modelis Latvijā. Tam ir 123 kubikcen
 * Paraugdemonstrējumi [FAI pasaules čempionātā droniem](https://f9u.lv/) - 2018 un 2019
 * Valsts fizikas olimpiādes (1. un 2. vieta novadā)
 * Valsts matemātikas olimpiādes (1. , 2., 3. vieta novadā)
-* [MOON CAMP](https://mooncampchallenge.org/pioneers/) - 2020
+* [MOON CAMP](https://www.lsm.lv/raksts/zinas/latvija/siguldas-jauniesi-uzvar-eiropas-kosmosa-agenturas-konkursa.a362557/) - 2020
 
 # Prasmes
 
