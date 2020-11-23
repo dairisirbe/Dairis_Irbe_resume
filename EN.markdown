@@ -14,12 +14,13 @@ permalink: /en/
 
 ## Executive summary
 * I'm passionate about electronics, mechatronics, RC aircraft building
-* I am able to design and practically develop complex design solutions
+* My passion is to design and practically develop complex design solutions
+* I pay close attention to accuracy
 * About me in a few words: positive, technically minded, committed
 
 ## About me
 
-I am a 12th grade student, I live in Sigulda, Latvia.
+I am a 1st year student of the Riga Technical University program "Construction of Machines and Mechanisms", I live in Sigulda, Latvia.
 
 I have been engaged in technical hobby - RC aircraft building for 9 years. I try to promote this activity in Latvia, often participating in various aviation-related events.
 
