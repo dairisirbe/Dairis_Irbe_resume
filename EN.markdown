@@ -20,7 +20,7 @@ permalink: /en/
 
 ## About me
 
-I am a 2nd year student of the Riga Technical University program "Mechanical and Instrumental Engineering", I live in Sigulda, Latvia.
+I am a 2nd year student at Riga Technical University program "Mechanical and Instrumental Engineering", I live in Sigulda, Latvia.
 
 I have been engaged in technical hobby - RC aircraft building for 10 years. I try to promote this activity in Latvia, often participating in various aviation-related events.
 
