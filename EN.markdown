@@ -20,9 +20,9 @@ permalink: /en/
 
 ## About me
 
-I am a 1st year student of the Riga Technical University program "Construction of Machines and Mechanisms", I live in Sigulda, Latvia.
+I am a 2nd year student of the Riga Technical University program "Mechanical and Instrumental Engineering", I live in Sigulda, Latvia.
 
-I have been engaged in technical hobby - RC aircraft building for 9 years. I try to promote this activity in Latvia, often participating in various aviation-related events.
+I have been engaged in technical hobby - RC aircraft building for 10 years. I try to promote this activity in Latvia, often participating in various aviation-related events.
 
 In addition to RC aerplanes, I am passionate about electronics, robotics - I design, build, program various robots and participate in Latvian and international competitions, and also I work as a teacher at the [Sigulda Creativity center](https://www.facebook.com/SiguldasJC/) to pass on my knowledge about electronics and robotics to children.
 
