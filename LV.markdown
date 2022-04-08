@@ -19,7 +19,7 @@ permalink: /lv/
 
 ## Par mani
 
-Esmu 1. kursa students RTU programā "Mašīnu un aparātu būvniecība", dzīvoju Siguldā.
+Esmu 2. kursa students RTU programā "Mašīnu un aparātu būvniecība", dzīvoju Siguldā.
 
 Jau 10 gadus nodarbojos ar tehnisko hobiju lidmodelismu. Cenšos šo nodarbi Latvijā popularizēt, nereti piedaloties dažādos ar aviāciju saistītos pasākumos.
 
